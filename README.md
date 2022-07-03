@@ -1,5 +1,7 @@
-# Nasa-Hestia
-
-Official entry into Nasa-Ames Space Settlement contest for year 2016-2017
-
-3rd place worldwide
+## **Hestia**
+Official Entry into Nasa-Ames Space settlement contest for year 2016-2017
+---
+## Technology Stack used:
+```
+  Blender
+```
